@@ -2,13 +2,13 @@
 
 const VideoCardGrid = () => {
   const cards = [
-    { video: "/media/videos/moon-trailer1.mp4" },
-    { video: "/media/videos/vegetables-trailer-2.mp4" },
-    { video: "/media/videos/oldman-trailer3.mp4" },
-    { video: "/media/videos/astronaut-trailer4.mp4" },
-    { video: "/media/videos/woman-trailer5.mp4" },
-    { video: "/media/videos/jesus-trailer6.mp4" },
-    { video: "/media/videos/reflection-trailer7.mp4" },
+    { video: "https://cdn.soutle.com/assets/demo/videos/trailer1-rv2.mp4" },
+    { video: "https://cdn.soutle.com/assets/demo/videos/trailer3-rv2.mp4" },
+    { video: "https://cdn.soutle.com/assets/demo/videos/trailer5-rv2.mp4" },
+    { video: "https://cdn.soutle.com/assets/demo/videos/trailer1-rv2.mp4" },
+    { video: "https://cdn.soutle.com/assets/demo/videos/trailer4-rv2.mp4" },
+    { video: "https://cdn.soutle.com/assets/demo/videos/trailer6-rv2.mp4" },
+    { video: "https://cdn.soutle.com/assets/demo/videos/trailer7-rv2.mp4" },
   ];
 
   return (
